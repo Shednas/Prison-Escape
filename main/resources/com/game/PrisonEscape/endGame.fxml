@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.game.PrisonEscape.menu.EndGameController"
+            stylesheets="@styles.css"
+            prefHeight="600.0" prefWidth="800.0">
+
+    <VBox alignment="CENTER" spacing="25.0" AnchorPane.topAnchor="100"
+          AnchorPane.leftAnchor="400">
+
+        <!-- Dynamic win/lose message -->
+        <Label fx:id="messageLabel" styleClass="title-text"/>
+
+        <!-- Vertically stacked buttons -->
+        <Button fx:id="playAgainButton" text="Play Again" styleClass="all-button, menu-button"/>
+        <Button fx:id="mainMenuButton" text="Main Menu" styleClass="all-button, menu-button"/>
+        <Button fx:id="exitButton" text="Exit" styleClass="all-button" id="exitButton"/>
+
+    </VBox>
+
+</AnchorPane>

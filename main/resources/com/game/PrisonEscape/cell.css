@@ -1,0 +1,25 @@
+.root {
+    -fx-background-color: #2c2c2c;
+    -fx-font-family: "Verdana";
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.text {
+    -fx-fill: white;
+    -fx-font-size: 16px;
+}
+
+.rectangle {
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+#cellDoor {
+    -fx-fill: linear-gradient(to bottom, #5a5a5a, #3e3e3e);
+    -fx-effect: dropshadow(gaussian, #000000, 5, 0.5, 0, 0);
+}

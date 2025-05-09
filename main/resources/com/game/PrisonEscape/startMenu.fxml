@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.game.PrisonEscape.menu.StartMenuController"
+            stylesheets="@styles.css"
+            >
+
+    <VBox alignment="CENTER" spacing="25.0" AnchorPane.topAnchor="100"
+    AnchorPane.leftAnchor="400" >
+
+        <Text text="Prison Escape" styleClass="title-text"/>
+
+        <Button fx:id="startButton" text="Start Game" onAction="#handleStartButton" styleClass="all-button, menu-button"/>
+        <Button fx:id="settingsButton" text="Settings" onAction="#handleSettingsButton" styleClass="all-button, menu-button,"/>
+        <Button fx:id="leaderboardButton" text="Leaderboard" onAction="#handleLeaderboardButton" styleClass="all-button,menu-button"/>
+        <Button fx:id="exitButton" text="Exit" onAction="#handleExitButton" styleClass="all-button" id="exitButton"/>
+    </VBox>
+</AnchorPane>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane stylesheets="@styles.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.game.PrisonEscape.menu.PlayerCreatorController">
+    <!-- Content Box Centered -->
+    <VBox styleClass="pcVbox" alignment="CENTER" spacing="25.0" AnchorPane.topAnchor="100" AnchorPane.leftAnchor="400">
+        <!-- Title -->
+        <Label styleClass="title-text" text="Create Your Player" wrapText="true" />
+
+        <!-- Input for Name -->
+        <HBox styleClass="pcHbox" alignment="CENTER" spacing="15">
+            <Label styleClass="control-text" text="Name:" />
+            <TextField fx:id="nameField" promptText="Enter name" />
+        </HBox>
+
+        <!-- Input for Age -->
+        <HBox styleClass="pcHbox" alignment="CENTER" spacing="15">
+            <Label styleClass="control-text" text="Age:" />
+            <TextField fx:id="ageField" promptText="Enter age" />
+        </HBox>
+
+        <!-- Save and Cancel Buttons -->
+        <HBox styleClass="pcHbox" alignment="CENTER" spacing="20">
+            <Button fx:id="saveButton" text="Save" styleClass="all-button, menu-button" />
+            <Button fx:id="cancelButton" text="Cancel" styleClass="all-button" id="exitButton" />
+        </HBox>
+    </VBox>
+</AnchorPane>

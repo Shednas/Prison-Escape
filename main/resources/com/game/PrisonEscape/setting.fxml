@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.game.PrisonEscape.menu.SettingController"
+            stylesheets="@styles.css"
+            >
+
+    <VBox alignment="CENTER" spacing="25.0" AnchorPane.topAnchor="50"
+          AnchorPane.leftAnchor="420" >
+
+        <Label text="Settings" styleClass="setting"/>
+
+        <VBox alignment="CENTER_LEFT" spacing="10.0" >
+            <Label text="W - Move Up" styleClass="control-text"/>
+            <Label text="A - Move Left" styleClass="control-text"/>
+            <Label text="S - Move Down" styleClass="control-text"/>
+            <Label text="D - Move Right" styleClass="control-text"/>
+            <Label text="E - Pick Up Items" styleClass="control-text"/>
+            <Label text="F - Interact" styleClass="control-text"/>
+        </VBox>
+
+        <HBox alignment="CENTER" spacing="10.0">
+            <Label text="Sound:" styleClass="control-text"/>
+            <Button fx:id="toggleSoundButton" text="ON" styleClass="sound-button"/>
+        </HBox>
+
+        <Button text="Back" fx:id="backButton" styleClass="all-button" id="exitButton"/>
+    </VBox>
+
+</AnchorPane>
