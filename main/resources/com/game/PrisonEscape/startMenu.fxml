@@ -16,7 +16,7 @@
 
         <Text text="Prison Escape" styleClass="title-text"/>
 
-        <Button fx:id="startButton" text="Start Game" onAction="#handleStartButton" styleClass="all-button, menu-button"/>
+        <Button fx:id="startButton" text="Start" onAction="#handleStartButton" styleClass="all-button, menu-button"/>
         <Button fx:id="settingsButton" text="Settings" onAction="#handleSettingsButton" styleClass="all-button, menu-button,"/>
         <Button fx:id="leaderboardButton" text="Leaderboard" onAction="#handleLeaderboardButton" styleClass="all-button,menu-button"/>
         <Button fx:id="exitButton" text="Exit" onAction="#handleExitButton" styleClass="all-button" id="exitButton"/>

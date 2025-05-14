@@ -1,0 +1,21 @@
+// Legend:
+// [S] = Shower      [WO] = Warder Office
+// [H1] = Hallway1   [H2] = Hallway2
+// [C] = Cell        [PY] = Prison Yard
+// [BG] = Back Gate
+
+┌─────┐                                ┌──────────────┐
+│ [S] │                                │    [WO]      │
+└──┬──┘                                └─────┬────────┘
+   │                                         │
+  shower                                  warden  
+   │                                         │
+┌─────┐  next_level  ┌─────┐  nextlevel2  ┌─────┐  next_level3 ┌─────┐
+│[H2] │──────────────│[H1] │──────────────│[PY] │──────────────│[BG] │
+└─────┘              └──┬──┘              └─────┘              └─────┘
+                        │
+                   gate_door
+                        │
+                     ┌──┴──┐
+                     │ [C] │
+                     └─────┘

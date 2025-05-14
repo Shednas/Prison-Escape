@@ -1,0 +1,16 @@
+wall wall gate gate gate gate_door gate_door gate gate gate gate gate gate gate wall wall
+wall wall floor floor floor floor floor floor floor floor broken_tile floor floor floor wall wall
+wall wall floor floor floor floor floor floor broken_tile floor floor floor floor floor wall wall
+wall wall floor floor broken_tile floor floor floor floor floor floor floor floor medkit wall wall
+wall wall floor floor floor floor floor floor floor floor floor broken_tile floor floor wall wall
+wall wall floor floor floor floor floor floor floor floor floor floor floor floor wall wall
+wall wall floor floor floor floor floor floor floor floor floor floor broken_tile floor wall wall
+wall wall floor floor floor floor floor floor floor floor floor floor floor floor wall wall
+wall wall floor floor floor floor floor floor floor floor floor floor floor floor wall wall
+wall wall floor floor floor floor floor floor floor floor floor floor floor floor wall wall
+wall wall bed bed floor floor floor floor floor floor floor floor floor sink wall wall
+wall wall bed bed floor broken_tile floor floor floor floor floor floor floor floor wall wall
+wall wall bed bed floor broken_tile floor floor floor floor floor floor floor toilet_wall wall wall
+wall wall bed bed floor floor drawer drawer floor drawer floor floor toilet_wall toilet wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall

@@ -1,0 +1,11 @@
+wall wall wall wall wall wall wall wall wall shower shower shower shower wall wall wall wall wall wall wall wall
+wall wall wall floor2 floor2 floor2 floor2 wall wall floor2 floor2 floor2 floor2 wall wall floor2 floor2 floor2 floor2 wall wall
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+maingate floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 floor2 next_level
+wall wall wall floor2 floor2 floor2 floor2 wall wall floor2 floor2 floor2 floor2 wall wall floor2 floor2 floor2 floor2 wall wall
+wall wall wall gate gate_locked gate gate wall wall gate gate_locked gate gate wall wall gate gate_locked gate gate wall wall

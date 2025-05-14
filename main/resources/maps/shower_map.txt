@@ -1,0 +1,12 @@
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall shower_wall shower_head shower_wall shower_wall shower_head shower_floor shower_wall shower_wall shower_head shower_floor shower_wall shower_wall shower_head shower_wall wall
+wall shower_wall sink shower_wall shower_wall sink shower_box shower_wall shower_wall sink shower_box shower_wall shower_wall sink shower_wall wall
+wall shower_wall shower_floor shower_wall shower_wall shower_floor shower_floor shower_wall shower_wall shower_floor shower_floor shower_wall shower_wall shower_floor shower_wall wall
+wall shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor wall
+wall closet closet closet closet closet shower_floor shower_floor shower_floor shower_floor closet closet closet closet closet wall
+wall shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor wall
+wall shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor wall
+wall shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor wall
+wall shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor shower_floor laptop wall
+wall wall wall wall wall wall shower_floor shower_floor shower_floor shower_floor wall wall wall wall wall wall
+empty empty empty empty empty wall shower shower shower shower wall empty empty empty empty empty

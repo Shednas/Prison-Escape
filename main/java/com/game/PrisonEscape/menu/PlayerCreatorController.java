@@ -1,6 +1,7 @@
 package com.game.PrisonEscape.menu;
 
 import com.game.PrisonEscape.PrisonEscapeGame;
+import com.game.PrisonEscape.database.PlayerDAO;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
@@ -51,16 +52,20 @@ public class PlayerCreatorController extends NavigationController{
             return;
         }
 
+        // Use PlayerDAO to insert the player into the database
+        PlayerDAO playerDAO = new PlayerDAO();
         try {
-            // Get the current Stage
+            playerDAO.addPlayer(playerName, playerAge); // Delegate the insert operation to PlayerDAO
+
+            // If successful, redirect to the game
             Stage stage = (Stage) saveButton.getScene().getWindow();
-            // Start the PrisonEscapeGame using the existing stage
             PrisonEscapeGame game = new PrisonEscapeGame();
             game.start(stage);
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("Failed to save player: " + e.getMessage());
         }
     }
+
 
     private void cancelCreation() {
             navigateTo((Stage) cancelButton.getScene().getWindow(), "startMenu.fxml");

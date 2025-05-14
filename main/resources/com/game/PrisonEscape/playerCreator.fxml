@@ -12,7 +12,7 @@
     <!-- Content Box Centered -->
     <VBox styleClass="pcVbox" alignment="CENTER" spacing="25.0" AnchorPane.topAnchor="100" AnchorPane.leftAnchor="400">
         <!-- Title -->
-        <Label styleClass="title-text" text="Create Your Player" wrapText="true" />
+        <Label styleClass="title-text" text="Create Your com.game.PrisonEscape.Player" wrapText="true" />
 
         <!-- Input for Name -->
         <HBox styleClass="pcHbox" alignment="CENTER" spacing="15">

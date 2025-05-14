@@ -1,0 +1,11 @@
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+wall grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass wall
+wall grass dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt grass wall
+wall grass dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt grass wall
+next_level2 pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement next_level3
+next_level2 pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement next_level3
+next_level2 pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement pavement next_level3
+wall grass dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt grass grass grass grass wall
+wall grass dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt dirt grass pond pond grass wall
+wall grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass grass wall
+wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall

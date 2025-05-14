@@ -4,6 +4,7 @@ module com.game.PrisonEscape {
 
     requires org.controlsfx.controls;
     requires java.desktop;
+    requires java.sql;
 
     opens com.game.PrisonEscape to javafx.fxml;
     exports com.game.PrisonEscape;
@@ -13,4 +14,6 @@ module com.game.PrisonEscape {
     opens com.game.PrisonEscape.character to javafx.fxml;
     exports com.game.PrisonEscape.gameLogic;
     opens com.game.PrisonEscape.gameLogic to javafx.fxml;
+    exports com.game.PrisonEscape.render;
+    opens com.game.PrisonEscape.render to javafx.fxml;
 }
